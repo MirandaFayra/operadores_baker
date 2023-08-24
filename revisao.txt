@@ -1,0 +1,51 @@
+- Variáveis (espaco de armazenamento do codigo) : 
+
+    let  : variaveis que se modificam ao longo do tempo
+
+    const: variaveis que nao se mudam ao longo do tempo 
+
+    var: obsoleta problemas e escopo 
+
+- Casting : Number => String ( conversao )
+
+    * prompt sempre retorna a string, converter  Number(prompt(``))
+
+- Template string : ` Escreve string ${variavel}`
+
+
+- Operadores aritmetico : 
+    + => soma
+    -  => sub
+    * => mult
+    / => div
+    %  => rest
+
+- Incremento ++ (= somar +1 no valor anterior)
+
+- Decremento -- (= subtrair - 1 no valor anterior)
+
+- Operadores relacionais : 
+
+    *  X > Y => x é maior que y 
+    * X < Y => x é menor que y 
+    *  X >= Y => x é maior  ou igual que y (cuidado com a ordem)
+    * X <= Y => x é menor ou igual que y 
+    * X === Y => x tem o mesmo valor e tipo de y ( 2 === "2" )
+    * X !== Y => x tem o  valor e tipo diferente  de y ( 2 === "2" )
+
+- Operadores logicos : 
+
+    * && = P/ o E ser verdadeiro as duas condicoes precisa ser verdadeiro
+    * || = P/ o OU ser certo, pelo menos uma condicao precisa ser verdadeira. 
+    * ! = Inverte o valor => true !true = false 
+
+- Tabela Verdade : 
+
+    E : P/ ser verdadeiro, tudo precisa ser verdadeiro 
+
+    OU : P/ ser falso, tudo precisa ser falso 
+
+    Não : Retorna o oposto 
+
+
+
