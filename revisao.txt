@@ -1,0 +1,13 @@
+- Variáveis (espaco de armazenamento do codigo) : 
+
+    let  : variaveis que se modificam ao longo do tempo
+
+    const: variaveis que nao se mudam ao longo do tempo 
+
+    var: obsoleta problemas e escopo 
+
+- Casting : Number => String ( conversao )
+
+    * prompt sempre retorna a string, converter  Number(prompt(``))
+
+- Template string : ` Escreve string ${variavel}`
